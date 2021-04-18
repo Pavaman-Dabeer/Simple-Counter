@@ -1,9 +1,9 @@
 ## Simple Counter
 
 * This Web App is a simple Counter which has 3 buttons 
-    [1] Increment
-    [2] Reset
-    [3] Decrement
+    > Increment
+    > Reset
+    > Decrement
 
 * This Page consists of a SPAN tag which updates the Count value
 
